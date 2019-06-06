@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Rothamsted_polygons",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": null, "Perimeter": 484.8, "Area_ha": 1.46894, "ratio_P_A": 0.033, "B1_mean": 0.086999354581977995 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.363181278800251, 51.802559396074535 ], [ -0.361927576228112, 51.801786792522641 ], [ -0.363154333051684, 51.801016714239822 ], [ -0.364409952868098, 51.801788432265809 ], [ -0.363181278800251, 51.802559396074535 ] ] ] } }
+]
+}
