@@ -5,5 +5,6 @@
 
 You can run this repository directly online, thanks to the Binder infrastructure.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jgomezdans/demo_estonia/master?urlpath=lab/tree/home/jovyan)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jgomezdans/demo_uk/master
+)
 
